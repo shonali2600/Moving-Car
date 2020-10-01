@@ -4,4 +4,4 @@ A moving car Game.
 
 ### Tech used
 
-HTML , CSS 3 and Javasript
+HTML , CSS3 and Javascript
