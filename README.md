@@ -1,6 +1,6 @@
 # Moving Car
 
-A moving car Game.
+A moving car animation.
 
 ### Tech used
 
